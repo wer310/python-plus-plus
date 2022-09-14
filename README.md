@@ -14,8 +14,11 @@ json3 *
 numpy -
 ```
 `*` means that the library has been ported in ways `from library import *`.
+
 `-` - `import numpy as np`.
+
 This library has a function `jsonify`.
+
 Exemple of using:
 ```python
 from ppp import *
