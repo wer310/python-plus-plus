@@ -2,7 +2,7 @@
 Python++ is pack for development on programming language python
 Installing:
 ```bash
-pip3 install git+git://github.com/wer310/python-plus-plus.git
+pip3 install git+http://github.com/wer310/python-plus-plus.git
 ```
 Importing:
 ```python
