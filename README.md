@@ -10,7 +10,7 @@ Pillow *
 opencv-python
 super-logger *
 requests
-json3
+json3 *
 numpy -
 ```
 `*` means that the library has been ported in ways `from library import *`
