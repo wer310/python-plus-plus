@@ -15,6 +15,7 @@ opencv-python
 super-logger *
 requests
 json3 *
+file-plus-plus *
 numpy -
 ```
 `*` means that the library has been ported in ways `from library import *`.
