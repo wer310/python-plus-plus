@@ -1,4 +1,4 @@
-from PIL import *
+from PIL import Image
 import cv2
 from slogger import *
 import requests
